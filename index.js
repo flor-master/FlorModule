@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { TouchableOpacity, StyleSheet, Text, Platform, Button } from 'react-native'
 import { CardIOModule, CardIOUtilities } from 'react-native-awesome-card-io'
 
-export default function Cardio(props) {
+export default function Flor(props) {
   const [rawCard, setRawCard] = useState(null)
   // const [isLoading, setIsLoading] = useState(false)
 
